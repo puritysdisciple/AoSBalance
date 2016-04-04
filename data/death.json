@@ -1,0 +1,183 @@
+[{
+    "name": "Nagash",
+    "title": "Supreme Lord of the Undead",
+    "unit": 1,
+    "move": 9,
+    "wounds": 16,
+    "save": 3,
+    "bravery": 10,
+    "summonable": false,
+    "weapons": [{
+        "name": "Gaze of Nagash",
+        "range": 12,
+        "attacks": 1,
+        "hit": 3,
+        "wound": 2,
+        "rend": -1,
+        "damage": "d6"
+    }, {
+        "name": "Alakanash",
+        "range": 3,
+        "attacks": 1,
+        "hit": 3,
+        "wound": 2,
+        "rend": -3,
+        "damage": "d6"
+    }, {
+        "name": "Zefet-nebtar",
+        "range": 2,
+        "attacks": 6,
+        "hit": 3,
+        "wound": 3,
+        "rend": -2,
+        "damage": 3
+    }, {
+        "name": "Spirits' Spectral Claws and Daggers",
+        "range": 1,
+        "attacks": 6,
+        "hit": 5,
+        "wound": 4,
+        "damage": 1
+    }],
+    "spells": 8,
+    "unbind": 8,
+    "abilities": []
+}, {
+    "name": "Arkhan",
+    "title": "the Black",
+    "unit": 1,
+    "move": 16,
+    "wounds": 11,
+    "save": 4,
+    "bravery": 10,
+    "summonable": false,
+    "weapons": [{
+        "name": "Zefet-kar",
+        "range": 1,
+        "attacks": 1,
+        "hit": 3,
+        "wound": 3,
+        "rend": -1,
+        "damage": "d3"
+    }, {
+        "name": "Khenash-an",
+        "range": 2,
+        "attacks": 1,
+        "hit": 4,
+        "wound": 3,
+        "rend": -1,
+        "damage": "d3"
+    }, {
+        "name": "Razarak's Ebon Claws",
+        "range": 1,
+        "attacks": 6,
+        "hit": 4,
+        "wound": 3,
+        "rend": -2,
+        "damage": 2
+    }, {
+        "name": "Spirits` Spectral Claws and Daggers",
+        "range": 1,
+        "attacks": 6,
+        "hit": 5,
+        "wound": 4,
+        "damage": 1
+    }],
+    "spells": 2,
+    "unbind": 2,
+    "abilities": []
+}, {
+    "name": "Mortis Engine",
+    "title": "",
+    "unit": 1,
+    "move": 14,
+    "wounds": 12,
+    "save": 4,
+    "bravery": 10,
+    "summonable": false,
+    "weapons": [{
+        "name": "Corpsemaster's Mortis Staff",
+        "range": 1,
+        "attacks": 1,
+        "hit": 4,
+        "wound": 3,
+        "rend": -1,
+        "damage": "d3"
+    }, {
+        "name": "Spectral Host's Ethereal Weapons",
+        "range": 1,
+        "attacks": 12,
+        "hit": 5,
+        "wound": 4,
+        "damage": 1
+    }],
+    "abilities": [{
+        "name": "Fly",
+        "points": 0
+    }, {
+        "name": "The Reliquary",
+        "points": 0
+    }, {
+        "name": "Bound Necromancer",
+        "points": 0
+    }]
+}, {
+    "name": "Skeleton Warriors",
+    "title": "",
+    "unit": 10,
+    "move": 4,
+    "wounds": 1,
+    "save": 5,
+    "bravery": 10,
+    "summonable": true,
+    "weapons": [{
+        "name": "Ancient Spear",
+        "range": 2,
+        "attacks": 3,
+        "hit": 4,
+        "wound": 4,
+        "damage": 1
+    }],
+    "abilities": [{
+        "name": "Icon and Standard Bearer",
+        "points": 0
+    }, {
+        "name": "Hornblower",
+        "points": 0
+    }]
+}, {
+    "name": "Black Knights",
+    "title": "",
+    "unit": 5,
+    "move": 12,
+    "wounds": 2,
+    "save": 4,
+    "bravery": 10,
+    "summonable": true,
+    "weapons": [{
+        "name": "Barrow Lance",
+        "range": 1,
+        "attacks": 1,
+        "hit": 4,
+        "wound": 4,
+        "damage": 1
+    }, {
+        "name": "Skeletal Steed's Hooves and Teeth",
+        "range": 1,
+        "attacks": 2,
+        "hit": 4,
+        "wound": 5,
+        "damage": 1
+    }],
+    "abilities": [{
+        "name": "Standard Bearer",
+        "points": 0
+    }, {
+        "name": "Hornblower",
+        "points": 0
+    }, {
+        "name": "Deadly Charge",
+        "points": 0
+    }]
+}]
+
