@@ -3,7 +3,7 @@ toughness * damage * 10 * movement + bravery/10
 
 toughness = wounds * 6 / (save - 1)
 
-damage = attacks * (7 - hit) / 6 * (7 - wound) / 6 * damage * (1 + (.16 * rend))
+damage = attacks * (7 - hit) / 6 * (7 - wound) / 6 * damage * (1 + (-0.16 * rend))
 
 0.5 range > 5 && < 16
 1.5 range >= 16
@@ -36,3 +36,7 @@ damage = 2 * (7 - 3) / 6 * (7 - 4) / 6 * 1 = .67
 movement = .9
 
 points = 4 * .67 * 10 * .9 + 6/10 = 24.72
+
+# Todo
+- Figure out summoning multipliers
+- Better points for casters with different spells
