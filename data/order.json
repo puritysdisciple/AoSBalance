@@ -1,0 +1,70 @@
+[{
+	"name": "Dryads",
+    "title": "",
+    "unit": 16,
+    "move": 7,
+    "wounds": 1,
+    "save": 4,
+    "bravery": 6,
+    "summonable": true,
+    "weapons": [{
+        "name": "Wracking Talons",
+        "range": 2,
+        "attacks": 2,
+        "hit": 4,
+        "wound": 4,
+        "rend": 0,
+        "damage": "1"
+    }],
+    "spells": 0,
+    "unbind": 0,
+    "abilities": []
+}, {
+	"name": "Branchwraith",
+    "title": "",
+    "unit": 1,
+    "move": 7,
+    "wounds": 5,
+    "save": 5,
+    "bravery": 8,
+    "summonable": false,
+    "weapons": [{
+        "name": "Piercing Talons",
+        "range": 2,
+        "attacks": 3,
+        "hit": 4,
+        "wound": 4,
+        "rend": -1,
+        "damage": "1"
+    }],
+    "spells": 1,
+    "unbind": 1,
+    "abilities": [{
+		"name": "Blessings of the Forest",
+        "points": 0
+	}]
+}, {
+	"name": "Tree Kin",
+    "title": "",
+    "unit": 3,
+    "move": 6,
+    "wounds": 4,
+    "save": 4,
+    "bravery": 6,
+    "summonable": false,
+    "weapons": [{
+        "name": "Buldgeoning Branches",
+        "range": 2,
+        "attacks": 3,
+        "hit": 4,
+        "wound": 3,
+        "rend": 0,
+        "damage": "2"
+    }],
+    "spells": 0,
+    "unbind": 0,
+    "abilities": [{
+		"name": "Roused to War",
+        "points": 0
+	}]
+}]
