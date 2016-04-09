@@ -1,0 +1,220 @@
+[{
+	"name": "Dryads",
+    "title": "",
+    "unit": 16,
+    "move": 7,
+    "wounds": 1,
+    "save": 4,
+    "bravery": 6,
+    "summonable": true,
+    "weapons": [{
+        "name": "Wracking Talons",
+        "range": 2,
+        "attacks": 2,
+        "hit": 4,
+        "wound": 4,
+        "rend": 0,
+        "damage": "1"
+    }],
+    "spells": 0,
+    "unbind": 0,
+    "abilities": [{
+		"name": "Blessings of the Forest",
+        "points": 0
+	}, {
+		"name": "Enrapturing Song",
+        "points": 0
+	}, {
+		"name": "Impenetrable Thicket",
+        "points": 0
+	}]
+}, {
+	"name": "Branchwraith",
+    "title": "",
+    "unit": 1,
+    "move": 7,
+    "wounds": 5,
+    "save": 5,
+    "bravery": 8,
+    "summonable": false,
+    "weapons": [{
+        "name": "Piercing Talons",
+        "range": 2,
+        "attacks": 3,
+        "hit": 4,
+        "wound": 4,
+        "rend": -1,
+        "damage": "1"
+    }],
+    "spells": 1,
+    "unbind": 1,
+    "abilities": [{
+		"name": "Blessings of the Forest",
+        "points": 0
+	}]
+}, {
+	"name": "Tree Kin",
+    "title": "",
+    "unit": 3,
+    "move": 6,
+    "wounds": 4,
+    "save": 4,
+    "bravery": 6,
+    "summonable": false,
+    "weapons": [{
+        "name": "Buldgeoning Branches",
+        "range": 2,
+        "attacks": 3,
+        "hit": 4,
+        "wound": 3,
+        "rend": 0,
+        "damage": "2"
+    }],
+    "spells": 0,
+    "unbind": 0,
+    "abilities": [{
+		"name": "Roused to War",
+        "points": 0
+	}]
+}, {
+	"name": "Treelord",
+    "title": "",
+    "unit": 1,
+    "move": 6,
+    "wounds": 12,
+    "save": 3,
+    "bravery": 6,
+    "summonable": false,
+    "weapons": [{
+        "name": "Strangleroots",
+        "range": 12,
+        "attacks": 5,
+        "hit": 2,
+        "wound": 3,
+        "rend": -1,
+        "damage": "1"
+    }, {
+        "name": "Sweeping Blows",
+        "range": 3,
+        "attacks": 4,
+        "hit": 3,
+        "wound": 3,
+        "rend": -1,
+        "damage": "d6"
+    }, {
+        "name": "Massive Impaling Talons",
+        "range": 1,
+        "attacks": 1,
+        "hit": 3,
+        "wound": 2,
+        "rend": -2,
+        "damage": 1
+    }],
+    "spells": 0,
+    "unbind": 0,
+    "abilities": [{
+		"name": "Ground Shaking Stomp",
+        "points": 0
+	}, {
+		"name": "Impale",
+        "points": 0
+	}, {
+		"name": "Spirit Paths",
+        "points": 0
+	}]
+}, {
+	"name": "Treelord Ancient",
+    "title": "",
+    "unit": 1,
+    "move": 5,
+    "wounds": 12,
+    "save": 3,
+    "bravery": 9,
+    "summonable": false,
+    "weapons": [{
+        "name": "Doom Tendril Staff",
+        "range": 18,
+        "attacks": 1,
+        "hit": 2,
+        "wound": 3,
+        "rend": -1,
+        "damage": "d6"
+    }, {
+        "name": "Sweeping Blows",
+        "range": 3,
+        "attacks": 3,
+        "hit": 3,
+        "wound": 3,
+        "rend": -1,
+        "damage": "d6"
+    }, {
+        "name": "Massive Impaling Talons",
+        "range": 1,
+        "attacks": 1,
+        "hit": 3,
+        "wound": 2,
+        "rend": -2,
+        "damage": 1
+    }],
+    "spells": 1,
+    "unbind": 1,
+    "abilities": [{
+		"name": "Ground Shaking Stomp",
+        "points": 0
+	}, {
+		"name": "Impale",
+        "points": 0
+	}, {
+		"name": "Spirit Paths",
+        "points": 0
+	}]
+}, {
+	"name": "Durthu",
+    "title": "",
+    "unit": 1,
+    "move": 5,
+    "wounds": 12,
+    "save": 3,
+    "bravery": 9,
+    "summonable": false,
+    "weapons": [{
+        "name": "Lamentations of Despair",
+        "range": 10,
+        "attacks": 12,
+        "hit": 3,
+        "wound": 5,
+        "rend": 0,
+        "damage": "1"
+    }, {
+        "name": "Elder Wrath Sword",
+        "range": 3,
+        "attacks": 3,
+        "hit": 3,
+        "wound": 3,
+        "rend": -2,
+        "damage": "6"
+    }, {
+        "name": "Massive Impaling Talons",
+        "range": 1,
+        "attacks": 1,
+        "hit": 3,
+        "wound": 2,
+        "rend": -2,
+        "damage": 1
+    }],
+    "spells": 0,
+    "unbind": 0,
+    "abilities": [{
+		"name": "Ground Shaking Stomp",
+        "points": 0
+	}, {
+		"name": "Impale",
+        "points": 0
+	}, {
+		"name": "Spirit Paths",
+        "points": 0
+	}, {
+		"name": "Elder Wrath Sword",
+        "points": 0
+	}]
+}]
